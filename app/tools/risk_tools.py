@@ -50,6 +50,9 @@ def determine_route(
     risk_score: int,
     exception_types: list[str],
 ) -> str:
+    if "DUPLICATE_INVOICE" in exception_types:
+        return "FRAUD_OR_COMPLIANCE_REVIEW"
+
     if risk_score >= 70:
         return "FRAUD_OR_COMPLIANCE_REVIEW"
 
