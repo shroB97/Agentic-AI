@@ -1,0 +1,6 @@
+vendor_id,vendor_name,risk_level,bank_change_pending,active
+V001,Alpha Office Supplies,LOW,false,true
+V002,Metro Industrial Services,MEDIUM,false,true
+V003,Global Equipment Partners,HIGH,false,true
+V004,Precision Steel Logistics,MEDIUM,true,true
+V005,Unknown Vendor,UNKNOWN,false,false
