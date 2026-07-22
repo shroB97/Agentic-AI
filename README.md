@@ -247,3 +247,17 @@ This solution demonstrates how Agentic AI can support finance operations by
 - improving invoice processing consistency
 - reducing duplicate payment risk
 - supporting audit
+
+  ## Application Screenshots
+
+### Invoice Risk and Routing Dashboard
+
+![Dashboard Overview](docs/screenshots/dashboard-overview.png)
+
+### AI-Assisted Variance Investigation
+
+![Variance Investigation](docs/screenshots/variance-investigation.png)
+
+### Duplicate Invoice Fraud Review
+
+![Fraud Review](docs/screenshots/fraud-review.png)
