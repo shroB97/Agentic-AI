@@ -250,14 +250,24 @@ This solution demonstrates how Agentic AI can support finance operations by
 
   ## Application Screenshots
 
-### Invoice Risk and Routing Dashboard
+## Dashboard Overview
+
+This dashboard displays invoice routing, deterministic business rules, and invoice selection.
 
 ![Dashboard Overview](docs/screenshots/dashboard-overview.png)
 
-### AI-Assisted Variance Investigation
+---
 
-![Variance Investigation](docs/screenshots/variance-investigation.png)
+## AI Investigation
 
-### Duplicate Invoice Fraud Review
+The AI investigation agent provides structured recommendations while preserving deterministic financial controls.
+
+![AI Investigation](docs/screenshots/ai-investigation.png)
+
+---
+
+## Fraud / Compliance Review
+
+Duplicate invoices are automatically escalated to Fraud/Compliance review, and the AI generates investigation actions without overriding the mandatory workflow.
 
 ![Fraud Review](docs/screenshots/fraud-review.png)
